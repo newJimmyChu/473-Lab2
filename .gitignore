@@ -1,0 +1,8 @@
+# Compiled binaries, etc.
+*.[oa]
+*.gch
+
+# Executables
+Kernel_Level_Thread/kt_test
+User_Level_Thread/project2
+
